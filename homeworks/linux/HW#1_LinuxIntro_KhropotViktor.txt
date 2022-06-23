@@ -1,4 +1,5 @@
 1. Create `cursor` directory and `test.txt` file
+
                       mkdir cursor
                       touch test.txt
 
